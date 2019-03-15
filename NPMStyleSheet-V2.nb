@@ -1,0 +1,69 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 11.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1645,         59]
+NotebookOptionsPosition[       877,         38]
+NotebookOutlinePosition[      1256,         54]
+CellTagsIndexPosition[      1213,         51]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[StyleData[StyleDefinitions -> "NPMStyleSheet1.nb"]],
+
+Cell[StyleData["Title"]],
+
+Cell[StyleData["Author"],
+ TextAlignment->Left],
+
+Cell[StyleData["Section"]],
+
+Cell[StyleData["Subsection"]],
+
+Cell[StyleData["Subsubsection"],
+ TextAlignment->Left],
+
+Cell[StyleData["EquationNumbered"]],
+
+Cell[StyleData["Text"]]
+},
+WindowSize->{808, 755},
+WindowMargins->{{40, Automatic}, {Automatic, 26}},
+FrontEndVersion->"11.0 for Mac OS X x86 (32-bit, 64-bit Kernel) (September \
+21, 2016)",
+StyleDefinitions->"PrivateStylesheetFormatting.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 56, 0, 36, 56, 0, "StyleData", "StyleDefinitions", ""],
+Cell[617, 22, 24, 0, 80, 24, 0, "StyleData", "Title", "All"],
+Cell[644, 24, 47, 1, 56, 25, 0, "StyleData", "Author", "All"],
+Cell[694, 27, 26, 0, 43, 26, 0, "StyleData", "Section", "All"],
+Cell[723, 29, 29, 0, 47, 29, 0, "StyleData", "Subsection", "All"],
+Cell[755, 31, 54, 1, 39, 32, 0, "StyleData", "Subsubsection", "All"],
+Cell[812, 34, 35, 0, 39, 35, 0, "StyleData", "EquationNumbered", "All"],
+Cell[850, 36, 23, 0, 36, 23, 0, "StyleData", "Text", "All"]
+}
+]
+*)
+
+(* End of internal cache information *)
+
